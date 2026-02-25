@@ -21,7 +21,7 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
-        <h1>Hola Mundo mi nombre es Jacqueline Ramos</h1>
+        <h1>Hola Mundo mi nombre es Jacqueline Ochoa Ramos</h1>
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
